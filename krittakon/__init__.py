@@ -73,3 +73,4 @@ def main():
         os.system("clear")
         print("\nเขาให้ใส่ตัวเลขใส่ตัวอักษรเพื่อ?")
         main()
+main()

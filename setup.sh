@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+update
 sudo apt-get install python3-pip
 sudo pip3 install virtualenv
 source ./venv/bin/activate

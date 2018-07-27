@@ -2,4 +2,4 @@ setup:
     chmod +x setup.sh
     ./setup.sh
 run:
-    python3 run.py
+    python3 main.py
